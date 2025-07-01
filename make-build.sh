@@ -4,8 +4,8 @@
 make info
 
 # Main configuration name
-PROFILE="generic"
-PACKAGES="neko"
+PROFILE=""
+PACKAGES=""
 
 # Modem and UsbLAN Driver
 PACKAGES+=" kmod-usb-net-rtl8150 kmod-usb-net-rtl8152 kmod-usb-net-asix kmod-usb-net-asix-ax88179"
